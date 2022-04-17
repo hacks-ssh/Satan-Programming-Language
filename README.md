@@ -18,5 +18,5 @@ var os = $getos;\n
 var osr = $getosrelease;\n
 var osv = $getosversion;\n
 var mac = $getmac;\n
-var wfp = $getwifi;\n
+var wfp = $getwifi;\nf
 #
