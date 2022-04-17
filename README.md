@@ -4,19 +4,19 @@ Satan Programming Language Is A Programming Language Based On Making Hacking Eas
 # How-To-Use-Satan
 
 #
-var string = "String";
-var intger = 1;
-var floating_point_number = 1.8;
-var test_list = ["list"];
-var ip = $getip;
-var hwid = $gethwid;
-var pcn = $getpcname;
-var mt = $getmachinetype;
-var pt = $getprocessortype;
-var plt = $getplatformtype;
-var os = $getos;
-var osr = $getosrelease;
-var osv = $getosversion;
-var mac = $getmac;
-var wfp = $getwifi;
+var string = "String";\n
+var intger = 1;\n
+var floating_point_number = 1.8;\n
+var test_list = ["list"];\n
+var ip = $getip;\n
+var hwid = $gethwid;\n
+var pcn = $getpcname;\n
+var mt = $getmachinetype;\n
+var pt = $getprocessortype;\n
+var plt = $getplatformtype;\n
+var os = $getos;\n
+var osr = $getosrelease;\n
+var osv = $getosversion;\n
+var mac = $getmac;\n
+var wfp = $getwifi;\n
 #
