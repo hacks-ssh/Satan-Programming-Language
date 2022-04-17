@@ -1,0 +1,80 @@
+run the builder the make a file named test.sn
+
+then double click it a popup box will show up asking you how you would like to open it
+
+make sure the checkbox is checked then click more apps
+
+then your going to want to go to the very bottom and click look for another app on this pc
+
+then navigate to C:\satan then in C:\Satan click satan.exe
+
+hot to code in satan
+
+### Vars
+var string = "String"; - this is a string
+var intger = 1; - this is a intger
+var floating_point_number = 1.8; - this is a floating point number
+var test_list = ["list", "list2"]; - this is a list
+var ip = $getip; - this is how you can get the users ip
+var hwid = $gethwid; - this is how you can get the users hwid
+var pcn = $getpcname; - this is how you can get the users pc name
+var mt = $getmachinetype; - this is how you can get the users machine type
+var pt = $getprocessortype; - this is how you can get the users processor type
+var plt = $getplatformtype; - this is how you can get the users platform type
+var os = $getos; - this is how you can get the users os name
+var osr = $getosrelease; - this is how you can get the users os release
+var osv = $getosversion; - this is how you can get the users os version
+var mac = $getmac; - this is how you can get the users mac addr
+var wfp = $getwifi; - this is how you can get the users wifi ssids and passwords
+var send_request_to_api = $request:api.ipify.org/?format=text; - this is how you send a request to a api do not put https:// infront of the url
+
+# Print
+print("hi") - print string
+print(hwid) - print variable
+print(eval(100 - 50)) - evaluate a expression
+
+# Keep The Cmd Open After Running
+puase; - makes the cmd stay open after running
+
+# If Statments
+if "hi" == "hi":
+	print("hi")
+ifend;
+
+if "hi" == "hi":
+	print("hi"),
+	print("GuardianAngel#3333")
+ifend;
+
+if "hi" != "yo":
+	print("hi")
+ifend;
+
+if "hi" != "yo":
+	print("hi"),
+	print("GuardianAngel#3333")
+ifend;
+
+# functions
+def func1():
+	print("hi")
+end;
+
+def func2():
+	print("hi"),
+	print("GuardianAngel#6666")
+end;
+
+def func3(arg1):
+	print(arg1)
+end;
+
+def func4(arg1, arg2):
+	print(arg1),
+	print(arg2)
+end;
+
+.func1();
+.func2();
+.func3(hi);
+.func4(hi, GuardianAngel#6666)
