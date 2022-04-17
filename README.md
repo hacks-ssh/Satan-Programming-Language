@@ -3,7 +3,7 @@ Satan Programming Language Is A Programming Language Based On Making Hacking Eas
 
 # How-To-Use-Satan
 
-# -
+#
 var string = "String";
 var intger = 1;
 var floating_point_number = 1.8;
@@ -19,4 +19,4 @@ var osr = $getosrelease;
 var osv = $getosversion;
 var mac = $getmac;
 var wfp = $getwifi;
-# -
+#
